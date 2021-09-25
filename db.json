@@ -1,0 +1,65 @@
+{
+   "products":[
+      {
+         "id":1,
+         "imageUrl":"https://content1.rozetka.com.ua/goods/images/big/176286574.jpg",
+         "name":"Samsung Galaxy S20 FE",
+         "colors":[
+            "nuvy",
+            "violet",
+            "green"
+         ],
+         "count":10,
+         "size":{
+            "width":74.5,
+            "height":159.8
+         },
+         "weight":"190g",
+         "comments":[
+            {
+               "id":1,
+               "productId":1,
+               "description":"Just got this yesterday, the day it came out. I got the Navy Blue, which looks great. I got it to replace my 1st generation Pixel XL. Because the Pixel's battery was old Google stopped supporting security updates, I decided to upgrade. I thought about a Pixel 4a, but when I saw this phone in online comparisons and its 120hz screen, huge battery, and top-of-the-line processor for $600, that seemed like too good of a deal. While the OS is gussied up a bit from what's in the Pixel line, it's not hard to figure out the differences and it adds a slight premium feel.",
+               "date":"16:02 23.09.2021"
+            },
+            {
+               "id":2,
+               "productId":1,
+               "description":"When I purchased this it was listed as 8gb of ram but the model I received is 6gb. That makes me feel lured into something I wasn't expecting.The phone is a solid overall phone with premium performance for the price due to sacrificing the build quality by making the back plastic and the screen gorilla glass 3 instead of 6.Doesn't matter to me as I wanted an unused device (battery) with a top notch processor for the smallest price point.I'm still slightly upset about not getting 8gb as was listed when I purchased which is why I didn't rate 5/5.",
+               "date":"11:39 20.08.2021"
+            }
+         ]
+      },
+      {
+         "id":2,
+         "imageUrl":"https://content2.rozetka.com.ua/goods/images/big/37399329.jpg",
+         "name":"Apple iPhone 11",
+         "count":18,
+         "colors":[
+            "purple",
+            "red",
+            "green",
+            "black"
+         ],
+         "size":{
+            "width":75.7,
+            "height":150.9
+         },
+         "weight":"194g",
+         "comments":[
+            {
+               "id":1,
+               "productId":2,
+               "description":"some text here",
+               "date":"14:00 22.08.2021"
+            },
+            {
+               "id":2,
+               "productId":2,
+               "description":"some text here",
+               "date":"14:00 22.08.2021"
+            }
+         ]
+      }
+   ]
+}
